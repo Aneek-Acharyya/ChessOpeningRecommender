@@ -131,16 +131,6 @@ The application provides:
 
 ---
 
-## 👨‍💻 Developer
-
-**Aneek Acharyya**
-
-Department of Artificial Intelligence & Machine Learning
-
-Manipal University Jaipur
-
----
-
 ## 📜 License
 
 This project was developed for academic purposes.
